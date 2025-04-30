@@ -28,3 +28,5 @@ Quantum-Cryptography/
 - Execute Git workflows and Markdown docs
 - Resolve merge conflicts practically
 - Create sample project
+# Resources
+https://www.w3schools.com/git/
