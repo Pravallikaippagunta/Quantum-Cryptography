@@ -1,4 +1,4 @@
-**# Git and Markdown: An Overview**
+# Git and Markdown: An Overview
 A study-based overview of Git (version control) and Markdown (markup language). Hands-on practice to follow.
 
 # Topics Covered
@@ -12,7 +12,8 @@ A study-based overview of Git (version control) and Markdown (markup language). 
 
 # File Structure
 Quantum-Cryptography/
-├── GIT and MarkDown-AN Overview/
+├── GIT and MarkDown/
+├── GIT AND MARKDOWN-AN OVERVIEW.docx
 └── README.md
 
 # Prerequisites
