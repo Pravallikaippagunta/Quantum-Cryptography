@@ -12,7 +12,7 @@ A study-based overview of Git (version control) and Markdown (markup language). 
 
 # File Structure
 Quantum-Cryptography/
-├── GIT and MarkDown/
+├── GIT and MarkDown-AN Overview/
 └── README.md
 
 # Prerequisites
