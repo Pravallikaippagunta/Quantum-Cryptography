@@ -1,4 +1,4 @@
-**# Wiki and Confluence Hands-On and Overview**
+# Wiki and Confluence Hands-On and Overview
 Understanding of Wiki and A practical hands-on session with Atlassian Confluence, covering page creation, formatting, image upload, space management, and basic document organization.
 
 # Implemented Features / Techniques
