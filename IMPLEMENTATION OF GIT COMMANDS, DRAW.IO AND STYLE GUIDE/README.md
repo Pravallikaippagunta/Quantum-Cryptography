@@ -1,4 +1,4 @@
-# Implementatio of Git commands, Draw.io and Style Guide
+# Implementation of Git commands, Draw.io and Style Guide
 
 ## Project Overview
 Initial groundwork related to Git version control, visual flowchart creation using Draw.io,
