@@ -53,7 +53,7 @@ No complex setup required. Tools used:
 - Highlights tone, formatting rules, and structural consistency
 - Explains what to follow and avoid in professional documentation
 - Lists common applications of style guides in real-world projects
-- 
+  
 ## Future Work:
 ## Upcoming Learning Goals:
 - Review and study the documentation of **BB84** and **E91** QKD protocols  
